@@ -5,7 +5,11 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-
+/**
+ * This is my first spring boot
+ * @author lizengfa
+ *
+ */
 @Configuration
 @EnableAutoConfiguration
 @ComponentScan //组件扫描
