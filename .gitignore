@@ -1,7 +1,7 @@
 # .gitignore for maven 
 target/
 *.releaseBackup
-
+bin/
 # web application files
 #/web-app/WEB-INF
 
