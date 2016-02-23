@@ -1,1 +1,9 @@
 这是另一个readme，纯粹为了测试Git
+修改一下，测试从缓存区删除
+如果提交到远程的文件是不应该的提交的
+，需要删除掉，而本地不能删除，应该
+怎么办呢；
+首先从本地缓存区删除
+git rm [file] --cached
+git commit -m "description"
+git push
